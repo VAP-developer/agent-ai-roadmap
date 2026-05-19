@@ -1,0 +1,33 @@
+{
+    "folders": [
+        {
+            "name": "⚙️ set-up",
+            "path": "set-up"
+        },
+        {
+            "name": "🏋️ bootcamp",
+            "path": "bootcamp"
+        },
+        {
+            "name": "🚀 advance",
+            "path": "advance"
+        },
+        {
+            "name": "🎓 senior",
+            "path": "senior"
+        }
+    ],
+    "settings": 
+    {
+        "workbench.colorCustomizations":
+        {
+            "titleBar.activeBackground": "#2d1b69",
+            "titleBar.activeForeground": "#ffffff"
+        },
+        "files.exclude":
+        {
+            "**/__pycache__": true,
+            "**/.DS_Store": true
+        }
+    }
+}
